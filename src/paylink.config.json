@@ -2,18 +2,18 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "José Luis Escobar Gámez",
+    "description": "Programming lover",
+    "alt": "Photo of José Luis Escobar Gámez",
+    "hero": "./images/jose-luis-escobar-gamez.png"
   },
 
   "Social": [
-    { "label": "Link", "type": "link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "type": "github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "type": "instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Link", "type": "link", "link": "" },
+    { "label": "GitHub", "type": "github", "link": "https://github.com/userjlegwork" },
+    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/jlescobargamez" },
+    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/josé-luis-escobar-gámez-479208202" },
+    { "label": "Instagram", "type": "instagram", "link": "" },
     { "label": "Discord", "type": "discord", "link": "" },
     { "label": "Facebook", "type": "facebook", "link": "" },
     { "label": "Medium", "type": "medium", "link": "" },
@@ -32,7 +32,7 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -56,7 +56,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -80,7 +80,7 @@
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/userjleg",
       "img": "./images/payments/qvapay.svg"
     },
     {
@@ -109,8 +109,14 @@
     },
     {
       "id": "card",
-      "label": "Card",
-      "value": "",
+      "label": "Bandec MLC",
+      "value": "9225069992685912",
+      "img": "./images/payments/card.svg"
+    },
+    {
+      "id": "card",
+      "label": "Bandec CUP",
+      "value": "9224069993689971",
       "img": "./images/payments/card.svg"
     }
   ]
