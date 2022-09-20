@@ -13,12 +13,12 @@ const Payment = (props) => {
   const [showModal, setShowModal] = React.useState(false);
 
   const handleCloseModal = () => setShowModal(false);
-  const handleShowModal = (evt: React.FormEvent) => {
+  const handleShowModal = (evt) => {
     evt.stopPropagation();
     setShowModal(true);
   };
 
-  const copy = (evt: React.FormEvent) => {
+  const copy = (evt) => {
     let value = props.value;
     navigator.clipboard.writeText(value);
     toggleShow(); /* once the text is copied to the clipboard the toast is shown */
