@@ -10,9 +10,9 @@
 
   "Social": [
     { "label": "Link", "type": "link", "link": "" },
-    { "label": "GitHub", "type": "github", "link": "https://github.com/userjlegwork" },
-    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/jlescobargamez" },
-    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/josé-luis-escobar-gámez-479208202" },
+    { "label": "GitHub", "type": "GitHub", "link": "https://github.com/userjlegwork" },
+    { "label": "Twitter", "type": "Twitter", "link": "https://twitter.com/jlescobargamez" },
+    { "label": "LinkedIn", "type": "LinkedIn", "link": "https://linkedin.com/in/josé-luis-escobar-gámez-479208202" },
     { "label": "Instagram", "type": "instagram", "link": "" },
     { "label": "Discord", "type": "discord", "link": "" },
     { "label": "Facebook", "type": "facebook", "link": "" },
